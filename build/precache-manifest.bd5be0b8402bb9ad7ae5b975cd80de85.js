@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9713a46c1eded5ee9c659880c522f15c",
+    "revision": "34ba7ca3057345cf73de4bacc065114b",
     "url": "albertobelalcazar.github.io/index.html"
   },
   {
-    "revision": "86f9f657bab448bdbadb",
-    "url": "albertobelalcazar.github.io/static/css/2.aafcfe95.chunk.css"
+    "revision": "b15e15bc4567d91cefe8",
+    "url": "albertobelalcazar.github.io/static/css/2.ae6410f9.chunk.css"
   },
   {
-    "revision": "fe79a535a89a48b94d2e",
-    "url": "albertobelalcazar.github.io/static/css/main.d8a0937d.chunk.css"
+    "revision": "9b6d00fd7251eed75b2b",
+    "url": "albertobelalcazar.github.io/static/css/main.9a383ca5.chunk.css"
   },
   {
-    "revision": "86f9f657bab448bdbadb",
+    "revision": "b15e15bc4567d91cefe8",
     "url": "albertobelalcazar.github.io/static/js/2.8606d566.chunk.js"
   },
   {
-    "revision": "fe79a535a89a48b94d2e",
-    "url": "albertobelalcazar.github.io/static/js/main.bd7a8fad.chunk.js"
+    "revision": "9b6d00fd7251eed75b2b",
+    "url": "albertobelalcazar.github.io/static/js/main.98b38e2d.chunk.js"
   },
   {
     "revision": "8d3a886b6823574fe22b",
