@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "albertobelalcazar.github.io/static/css/main.9a383ca5.chunk.css",
+    "main.js": "albertobelalcazar.github.io/static/js/main.98b38e2d.chunk.js",
+    "main.js.map": "albertobelalcazar.github.io/static/js/main.98b38e2d.chunk.js.map",
+    "runtime~main.js": "albertobelalcazar.github.io/static/js/runtime~main.b190d3c0.js",
+    "runtime~main.js.map": "albertobelalcazar.github.io/static/js/runtime~main.b190d3c0.js.map",
+    "static/css/2.ae6410f9.chunk.css": "albertobelalcazar.github.io/static/css/2.ae6410f9.chunk.css",
+    "static/js/2.8606d566.chunk.js": "albertobelalcazar.github.io/static/js/2.8606d566.chunk.js",
+    "static/js/2.8606d566.chunk.js.map": "albertobelalcazar.github.io/static/js/2.8606d566.chunk.js.map",
+    "index.html": "albertobelalcazar.github.io/index.html",
+    "precache-manifest.bd5be0b8402bb9ad7ae5b975cd80de85.js": "albertobelalcazar.github.io/precache-manifest.bd5be0b8402bb9ad7ae5b975cd80de85.js",
+    "service-worker.js": "albertobelalcazar.github.io/service-worker.js",
+    "static/css/2.ae6410f9.chunk.css.map": "albertobelalcazar.github.io/static/css/2.ae6410f9.chunk.css.map",
+    "static/css/main.9a383ca5.chunk.css.map": "albertobelalcazar.github.io/static/css/main.9a383ca5.chunk.css.map",
+    "static/media/close-envelope.svg": "albertobelalcazar.github.io/static/media/close-envelope.b3ad973d.svg",
+    "static/media/github-logo.svg": "albertobelalcazar.github.io/static/media/github-logo.d42fb582.svg",
+    "static/media/linkedin.svg": "albertobelalcazar.github.io/static/media/linkedin.7c4e3ad6.svg",
+    "static/media/sms.svg": "albertobelalcazar.github.io/static/media/sms.ffe3e9a2.svg"
+  }
+}
