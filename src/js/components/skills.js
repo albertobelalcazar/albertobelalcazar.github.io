@@ -3,7 +3,7 @@ import React, { Component } from  'react';
 class Skills extends Component {
     render() {
       return (
-        <div className="container-fluid mt-10 skills-c">
+        <div className="container-fluid mt-10 skills-c" id="kompetens">
           <div className="row mt-3">
           <div className="col-md-6 col-sm-12 col-xs-12 t-skills">
             <h2>Technical Skills</h2>

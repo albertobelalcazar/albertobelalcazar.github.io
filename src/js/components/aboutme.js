@@ -4,7 +4,7 @@ import ArrowDown from '../../assets/img/arrow_down.png';
 class Aboutme extends Component {
   render() {
     return (
-      <div className="container-fluid mt-10">
+      <div className="container-fluid mt-10" id="ommig">
         <div className="row">
           {/* <div className="col-md-6 col-sm-12">
             <img src={AboutMeImg} id="aboutmeimg"/>
