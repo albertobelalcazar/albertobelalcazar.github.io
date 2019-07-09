@@ -5,7 +5,6 @@ import Mobil from '../../assets/img/sms.svg';
 import Git from '../../assets/img/github-logo.svg';
 
 
-
 class Jumbotron extends Component {
   render() {
     return (

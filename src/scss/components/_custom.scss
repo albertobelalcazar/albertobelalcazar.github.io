@@ -109,6 +109,10 @@
 //     }
 // }
 
+#root{
+  background: #333;
+}
+
 h1 {
   text-shadow: 2px 1px 0px rgba(77, 77, 77, 0.49);
 }
@@ -171,7 +175,7 @@ $progress-bar-transition: width 0.6s ease !default;
 
 .progress {
   margin-bottom: 10px;
-  height: 1rem;
+  height: 1rem !important;
 }
 
 .card-body {
@@ -191,9 +195,6 @@ $progress-bar-transition: width 0.6s ease !default;
 //     text-shadow: 2px 2px 2px #333;
 // }
 
-.main-header {
-  background: #5ebcdf;
-}
 .social-icons div img {
   display: inline-block;
   width: auto;
@@ -217,9 +218,9 @@ $progress-bar-transition: width 0.6s ease !default;
 // }
 .cm-c {
   max-width: 1140px !important;
-  background: #e9e7e7;
   padding-right: 0px !important;
   padding-left: 0px !important;
+  background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%) !important;
   border: none;
 }
 .social-icons .c-icons {
@@ -233,7 +234,6 @@ $progress-bar-transition: width 0.6s ease !default;
 .container-fluid.mt-10.jumbotron-c {
   color: #fff;
   padding-left: 50px;
-  border-bottom: 25px #fff solid;
   margin-bottom: 20px;
   min-height: 200px;
   margin-top: 100px;
@@ -241,9 +241,13 @@ $progress-bar-transition: width 0.6s ease !default;
 
 //skills
 
-.t-skills,
-.p-skills {
-  background: #fff;
+.t-skills h2,h6 ,
+.p-skills h2 {
+  // background: #fff;
+  color: #fff;
+}
+#erfarenhet h2{
+  color: #fff;
 }
 .p-skills-d {
   margin-top: 50%;
