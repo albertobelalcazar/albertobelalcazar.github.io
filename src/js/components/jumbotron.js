@@ -3,7 +3,7 @@ import LinkedIn from '../../assets/img/linkedin.svg';
 import Email from '../../assets/img/close-envelope.svg';
 import Mobil from '../../assets/img/sms.svg';
 import Git from '../../assets/img/github-logo.svg';
-
+import Me from '../../assets/img/me11.jpg';
 
 class Jumbotron extends Component {
   render() {
@@ -19,11 +19,11 @@ class Jumbotron extends Component {
             <p>0762938777</p>
             <p>Norrtälje</p> */}
           </div>
-          {/* <div className="col-md-6">
+          <div className="col-md-6">
               <div className="me-container">
                 <img src={Me} alt="me"  id="me"/>
               </div>
-            </div> */}
+            </div>
         </div>
         <div className="social-icons text-center">
           <div className="c-icons">

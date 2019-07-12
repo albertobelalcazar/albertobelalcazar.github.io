@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 class Experiences extends Component {
   render() {
     return (
-      <div className="">
-        <div id="slider-feature" className="carousel slide" data-ride="carousel">
+      <div id="slider-feature" className="carousel slide" data-ride="carousel">
+        <div className="slider-feature-inner">
           <h3>Vad människor som jag har arbetat tycker om mig</h3>
           <ol className="carousel-indicators">
             <li data-target="#slider-feature" data-slide-to="0" className="active"></li>

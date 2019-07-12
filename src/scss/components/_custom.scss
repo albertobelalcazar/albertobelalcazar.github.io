@@ -12,24 +12,32 @@
 //     color: rgb(99, 101, 102);
 // }
 
-// #me{
-//     position: relative;
-//     width: 280px;
-//     height: 280px;
-//     text-align: center;
-//     vertical-align: middle;
-//     border: 20px solid #17B8EC;
-//     border-radius: 50%;
+#me{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+    border: 10px solid #17B8EC;
+    border-radius: 50%;
 
-// }
-// .me-container{
-//     height: 320px;
-//     width: 320px;
-//     left: 20%;
-//     border: 20px solid #0487CB;
-//     margin: 0 auto;
-//     border-radius: 50%;
-// }
+}
+.me-container{
+    height: 220px;
+    width: 220px;
+    left: 20%;
+    border: 10px solid #0487CB;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+@media only screen and (min-width: 768px) {
+ 
+  .me-container{
+    margin-left: 120px !important;
+  }
+}
+
 // .jumbotron{
 //     background: #fff !important;
 // }
@@ -186,6 +194,11 @@ $progress-bar-transition: width 0.6s ease !default;
   background: #fff;
 }
 
+.navbar-nav{
+  text-align: center;
+}
+
+
 //   #headingOne{
 //     background: #0487CB;
 // }
@@ -195,6 +208,26 @@ $progress-bar-transition: width 0.6s ease !default;
 //     text-shadow: 2px 2px 2px #333;
 // }
 
+
+.social-icons.text-center {
+  padding-top: 20px;
+}
+
+#ommig, #kompetens, #erfarenhet, .slider-feature-inner{
+  max-width: 1140px;
+}
+
+#accordionExample>.card:last-of-type {
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.slider-feature-inner{
+  margin: 0 auto !important;
+}
+#portfolio{
+  background: #fff;
+}
 .social-icons div img {
   display: inline-block;
   width: auto;
@@ -217,7 +250,7 @@ $progress-bar-transition: width 0.6s ease !default;
 //   background: #0e4c9e;
 // }
 .cm-c {
-  max-width: 1140px !important;
+  // max-width: 1140px !important;
   padding-right: 0px !important;
   padding-left: 0px !important;
   background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%) !important;
@@ -233,10 +266,14 @@ $progress-bar-transition: width 0.6s ease !default;
 
 .container-fluid.mt-10.jumbotron-c {
   color: #fff;
-  padding-left: 50px;
   margin-bottom: 20px;
   min-height: 200px;
   margin-top: 100px;
+  max-width: 1140px;;
+}
+
+.jumbo-text{
+  padding-left: 50px;
 }
 
 //skills
@@ -283,14 +320,17 @@ h2 {
 
 #slider-feature {
   padding: 15px;
-  background-color: #5ebcdf; /* Used if the image is unavailable */
+  background-color: #5EBCDF; /* Used if the image is unavailable */
   min-height: 300px; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
-  border-top: 15px solid #fff;
-  border-bottom: 15px solid #fff;
+  // border-top: 15px solid #fff;
+  // border-bottom: 15px solid #fff;
   color: #fff;
+}
+.blockquote-footer{
+  color: #333 !important;
 }
 .carousel-item {
   margin-top: 10px;
@@ -347,4 +387,51 @@ a {
   60% {
     transform: translateY(-15px);
   }
+}
+
+
+/******/
+.icon-bar {
+	width: 22px; 
+	height: 2px;
+	background-color: #fff;
+	display: block;
+	transition: all 0.2s;
+	margin-top: 4px
+}
+ 
+.navbar-toggler {
+  border: none;
+  background: transparent !important;
+}
+
+/*animation*/
+
+.navbar-toggler .top-bar {
+  transform: rotate(45deg);
+  transform-origin: 10% 10%;
+}
+.navbar-light .navbar-toggler{
+  border-color: transparent !important;
+}
+ 
+.navbar-toggler .middle-bar {
+  opacity: 0;
+}
+ 
+.navbar-toggler .bottom-bar {
+  transform: rotate(-45deg);
+  transform-origin: 10% 90%;
+}
+ 
+.navbar-toggler.collapsed .top-bar {
+  transform: rotate(0);
+}
+ 
+.navbar-toggler.collapsed .middle-bar {
+  opacity: 1;
+}
+ 
+.navbar-toggler.collapsed .bottom-bar {
+  transform: rotate(0);
 }
