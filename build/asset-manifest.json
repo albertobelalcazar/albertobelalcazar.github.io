@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.42a1f737.chunk.css",
-    "main.js": "/static/js/main.e60e5359.chunk.js",
-    "main.js.map": "/static/js/main.e60e5359.chunk.js.map",
+    "main.css": "/static/css/main.8fc7ce2e.chunk.css",
+    "main.js": "/static/js/main.ba1327d2.chunk.js",
+    "main.js.map": "/static/js/main.ba1327d2.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.aafcfe95.chunk.css": "/static/css/2.aafcfe95.chunk.css",
-    "static/js/2.5cc2fe7d.chunk.js": "/static/js/2.5cc2fe7d.chunk.js",
-    "static/js/2.5cc2fe7d.chunk.js.map": "/static/js/2.5cc2fe7d.chunk.js.map",
+    "static/js/2.04694a73.chunk.js": "/static/js/2.04694a73.chunk.js",
+    "static/js/2.04694a73.chunk.js.map": "/static/js/2.04694a73.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6d0f3969f651039e8b277e8f17bad955.js": "/precache-manifest.6d0f3969f651039e8b277e8f17bad955.js",
+    "precache-manifest.27085070e4a10232b96fd5c6863f1b53.js": "/precache-manifest.27085070e4a10232b96fd5c6863f1b53.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.aafcfe95.chunk.css.map": "/static/css/2.aafcfe95.chunk.css.map",
-    "static/css/main.42a1f737.chunk.css.map": "/static/css/main.42a1f737.chunk.css.map",
+    "static/css/main.8fc7ce2e.chunk.css.map": "/static/css/main.8fc7ce2e.chunk.css.map",
     "static/media/close-envelope.svg": "/static/media/close-envelope.b3ad973d.svg",
+    "static/media/ffreact.JPG": "/static/media/ffreact.2819226d.JPG",
     "static/media/github-logo.svg": "/static/media/github-logo.d42fb582.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.7c4e3ad6.svg",
     "static/media/me11.jpg": "/static/media/me11.8a91617c.jpg",
-    "static/media/sms.svg": "/static/media/sms.ffe3e9a2.svg"
+    "static/media/peru.JPG": "/static/media/peru.8e8088e3.JPG",
+    "static/media/sms.svg": "/static/media/sms.ffe3e9a2.svg",
+    "static/media/svedea.JPG": "/static/media/svedea.177a5c67.JPG"
   }
 }
