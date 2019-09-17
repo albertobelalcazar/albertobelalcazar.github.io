@@ -5,10 +5,10 @@ class Topbar extends Component {
     return (
       <nav className="navbar navbar-expand-lg navbar-light">
         <a className="navbar-brand" href="#"></a>
-        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="icon-bar top-bar"></span>
-          <span class="icon-bar middle-bar"></span>
-          <span class="icon-bar bottom-bar"></span>
+        <button className="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span className="icon-bar top-bar"></span>
+          <span className="icon-bar middle-bar"></span>
+          <span className="icon-bar bottom-bar"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="mx-auto py-3">
