@@ -43,9 +43,8 @@
   </a>
 </body>
 <script>
-  $(document).ready(function () {
     $(window).scroll(function () {
-      if ($('body,html').scrollTop() > 150) {
+      if ($('html').scrollTop() > 150) {
         $('#back-to-top').show();
       } else {
         $('#back-to-top').hide();
@@ -54,7 +53,7 @@
     // scroll body to 0px on click
     $('#back-to-top').click(function () {
       $('#back-to-top').show();
-      $('body,html').animate({
+      $('html').animate({
         scrollTop: 0
       }, 800);
       return false;
@@ -99,7 +98,6 @@
     }
   });
 
-  });
 </script>
 
 </html>

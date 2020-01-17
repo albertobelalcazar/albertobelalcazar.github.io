@@ -16,7 +16,7 @@ class Contact extends Component {
               </a>
             </div>
             <div className="c-icons">
-              <a href="mailto:alberto@alberto.codes?Subject=Hello%20again" target="_top">
+              <a href="mailto:alberto@alberto.codes?Subject=Hej" target="_top">
                 <img src={Email} alt="e-mail" />
               </a>
             </div>
